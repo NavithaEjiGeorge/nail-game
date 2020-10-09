@@ -80,7 +80,6 @@ function draw() {
     text("CLICK THE COLOURED BLOCKS TO GET THE DESIRED NAIL POLISH",2,30)
   }
   
-  
   if (gameState === START) {
     red.visible = false;
     green.visible = false;

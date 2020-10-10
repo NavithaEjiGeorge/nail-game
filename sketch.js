@@ -119,7 +119,7 @@ function draw() {
     hand.changeAnimation("3",H3);
   }
   if(mousePressedOver(go)){
-    link = createA(" https://navithaejigeorge.github.io/necklace/","CLICK HERE");
+    link = createA("https://navithaejigeorge.github.io/blusher/","CLICK HERE");
     link.position(400,400);
   }
 }
